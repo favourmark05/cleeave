@@ -57,12 +57,19 @@
     .card1{
         display: grid;
         grid-template-columns: auto auto;
+        width: 300px;
 
     }
     .tex{
         text-align: center !important;
         padding-top: 150px !important;
         padding-bottom: 50px !important;
+    }
+    .sm{
+        font-size: 15px !important;
+    }
+    .just{
+        text-align: end !important;
     }
 
     /* the footer section */
