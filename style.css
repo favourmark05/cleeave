@@ -1,0 +1,83 @@
+    /* the blog link */
+    .B{
+        color: #0AC898 !important;
+    }
+
+    /* the host us button */
+
+    .get{
+        background-color: #0AC898 !important;
+        border: none !important;
+    }
+    .cover{
+        font-family: lato !important;
+    }
+
+    /* the main navbar */
+    .left{
+        justify-content: space-evenly !important;
+    }
+    .space1{
+        color: rgb(182, 176, 176) !important;
+        padding-left: 40px !important;
+    }
+
+    /* the grid sytem */
+
+    .bill{
+        display: grid !important;
+        grid-template-columns: auto auto !important;
+    }
+
+    /* the categories button */
+
+    .mar{
+        margin-left: 150px !important;
+        border: 2px solid rgb(207, 202, 202);
+        border-radius: 10px;
+        height: 40px !important;
+    }
+    .ent{
+        text-decoration: underline !important;
+        text-decoration-color: #0AC898 !important;
+    }
+    .blop{
+        display: grid;
+        grid-template-columns: auto 1fr;
+    }
+    .brandLogo{
+        background-image: linear-gradient(rgb(7, 7, 7, 0.4), rgb(7, 7, 7, 0.4), rgb(7, 7, 7, 0.4)), url(images/banner.jpg);
+        height: 100%;
+    }
+    /* this is the side cards */
+    .blade{
+        height: 200px;
+        width: 100px;
+    }
+    .card1{
+        display: grid;
+        grid-template-columns: auto auto;
+
+    }
+    .tex{
+        text-align: center !important;
+        padding-top: 150px !important;
+        padding-bottom: 50px !important;
+    }
+
+    /* the footer section */
+    .foot{
+        background-color: gray;
+        height: auto;
+
+    }
+
+    /* the nav section */
+
+    .but{
+        background-color: #0AC898 !important;
+        color: white !important;
+    }
+
+/* this is the styling for the events page */
+
